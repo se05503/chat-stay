@@ -28,6 +28,19 @@
 - 길찾기 기능(지하철, 버스, 도보)
 - POI 기능 개선 - 실시간 조회 가능
 
+# 앱 화면
+<img width="214" height="476" alt="Image" src="https://github.com/user-attachments/assets/b00b640c-bbc6-46ed-a883-14ae2c3c6f3d" />
+<img width="214" height="476" alt="Image" src="https://github.com/user-attachments/assets/64ba225d-87db-4c09-90f9-cbf03d1e7569" />
+<img width="214" height="477" alt="Image" src="https://github.com/user-attachments/assets/b7eadcc4-873b-4f78-9f9c-ea3dfeacf5c5" />
+<img width="214" height="477" alt="Image" src="https://github.com/user-attachments/assets/444ab659-21e5-4109-8def-dd1d49e60a5a" />
+<img width="214" height="477" alt="Image" src="https://github.com/user-attachments/assets/14d6eb54-9cea-4e50-8797-eb22715ed065" />
+<img width="214" height="477" alt="Image" src="https://github.com/user-attachments/assets/bfd82352-1501-45e0-ba00-822481535624" />
+<img width="214" height="477" alt="Image" src="https://github.com/user-attachments/assets/995ce947-750b-4080-bb32-c58579e6e37f" />
+<img width="214" height="476" alt="Image" src="https://github.com/user-attachments/assets/a48bf0cc-7f1c-4c33-8e5c-1eb3420f78b8" />
+<img width="214" height="476" alt="Image" src="https://github.com/user-attachments/assets/cc03826a-e99a-4bdb-af40-49909497bcf9" />
+<img width="214" height="476" alt="Image" src="https://github.com/user-attachments/assets/fa798f86-50fb-4bf7-926c-53bcff0491cf" />
+<img width="214" height="476" alt="Image" src="https://github.com/user-attachments/assets/af5e88ef-d6fd-4129-9a51-6e39cbeac653" />
+
 # 구현 기술 블로그
 - [bottom navigation view] https://soung-appdeveloper.tistory.com/145
 - [kakao login api] https://soung-appdeveloper.tistory.com/147
